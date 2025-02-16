@@ -1,9 +1,6 @@
 [submodule "PolyTheremin_Hardware"]
 	path = PolyTheremin_Hardware
 	url = https://github.com/MiCyg/PolyTheremin_Hardware
-[submodule "PolyTheremin_Software"]
-	path = PolyTheremin_Software
-	url = https://github.com/MiCyg/PolyTheremin_Software
 [submodule "PolyTheremin_LabView"]
 	path = PolyTheremin_LabView
 	url = https://github.com/MiCyg/PolyTheremin_LabView
