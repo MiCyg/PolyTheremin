@@ -7,3 +7,6 @@
 [submodule "PolyTheremin_Algorithm"]
 	path = PolyTheremin_Algorithm
 	url = https://github.com/MiCyg/PolyTheremin_Algorithm
+[submodule "PolyTheremin_Software"]
+	path = PolyTheremin_Software
+	url = https://github.com/MiCyg/PolyTheremin_Software
